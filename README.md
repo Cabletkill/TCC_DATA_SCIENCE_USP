@@ -48,7 +48,7 @@ Os principais insights obtidos foram:
    ```
 3. Execute o notebook principal:
    ```bash
-   jupyter notebook analise_criminal.ipynb
+   jupyter notebook Analise_Roubos_Carros_2012_2022.13.1.2.ipynb
    ```
 
 ## Conclusões
