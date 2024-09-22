@@ -1,0 +1,55 @@
+Variavel;Descricao
+ANO_BO; Ano do boletim de ocorrência.
+NUM_BO; Número do boletim de ocorrência.
+NUMERO_BOLETIM; Número do boletim de ocorrência.
+BO_INICIADO; Indica se o boletim de ocorrência foi iniciado.
+BO_EMITIDO; Indica se o boletim de ocorrência foi emitido.
+DATAOCORRENCIA; Data da ocorrência.
+HORAOCORRENCIA; Hora da ocorrência.
+PERIDOOCORRENCIA; Período da ocorrência (manhã, tarde, noite, etc.).
+DATACOMUNICACAO; Data em que a ocorrência foi comunicada.
+DATAELABORACAO; Data de elaboração do boletim de ocorrência.
+BO_AUTORIA; Indica se há informações sobre a autoria do delito.
+FLAGRANTE; Indica se a ocorrência foi em flagrante.
+NUMERO_BOLETIM_PRINCIPAL; Número do boletim principal (se houver algum relacionado).
+LOGRADOURO; Nome da rua ou local onde ocorreu a ocorrência.
+NUMERO; Número do endereço onde ocorreu a ocorrência.
+BAIRRO; Nome do bairro.
+CIDADE; Nome da cidade.
+UF; Unidade da Federação (estado).
+LATITUDE; Coordenada de latitude do local da ocorrência.
+LONGITUDE; Coordenada de longitude do local da ocorrência.
+DESCRICAOLOCAL; Descrição do local da ocorrência.
+EXAME; Tipo de exame realizado.
+SOLUCAO; Solução dada à ocorrência.
+DELEGACIA_NOME; Nome da delegacia onde o boletim de ocorrência foi registrado.
+DELEGACIA_CIRCUNSCRICAO; Circunscrição da delegacia.
+ESPECIE; Espécie da ocorrência (crime, acidente, etc.).
+RUBRICA; Código de classificação da ocorrência.
+DESDOBRAMENTO; Detalhes ou subdivisões da ocorrência.
+STATUS; Status da ocorrência.
+TIPOPESSOA; Tipo de pessoa envolvida (vítima, suspeito, etc.).
+VITIMAFATAL; Indica se houve vítima fatal na ocorrência.
+NATURALIDADE; Naturalidade da pessoa envolvida.
+NACIONALIDADE; Nacionalidade da pessoa envolvida.
+SEXO; Gênero da pessoa envolvida.
+DATANASCIMENTO; Data de nascimento da pessoa envolvida.
+IDADE; Idade da pessoa envolvida.
+ESTADOCIVIL; Estado civil da pessoa envolvida.
+PROFISSAO; Profissão da pessoa envolvida.
+GRAUINSTRUCAO; Grau de instrução da pessoa envolvida.
+CORCUTIS; Cor da pele da pessoa envolvida.
+NATUREZAVINCULADA; Natureza vinculada à ocorrência.
+TIPOVINCULO; Tipo de vínculo da pessoa envolvida na ocorrência.
+RELACIONAMENTO; Tipo de relacionamento da pessoa envolvida.
+PARENTESCO; Grau de parentesco da pessoa envolvida.
+PLACA_VEICULO; Placa do veículo envolvido na ocorrência.
+UF_VEICULO; Unidade da Federação (estado) do veículo envolvido.
+CIDADE_VEICULO; Cidade do veículo envolvido.
+DESCR_COR_VEICULO; Descrição da cor do veículo envolvido.
+DESCR_MARCA_VEICULO; Descrição da marca do veículo envolvido.
+ANO_FABRICACAO; Ano de fabricação do veículo envolvido.
+ANO_MODELO; Ano do modelo do veículo envolvido.
+DESCR_TIPO_VEICULO; Descrição do tipo de veículo envolvido.
+QUANT_CELULAR; Quantidade de celulares envolvidos.
+MARCA_CELULAR; Marca dos celulares envolvidos.
