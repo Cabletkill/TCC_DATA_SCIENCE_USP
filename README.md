@@ -28,7 +28,7 @@ Os principais objetivos deste projeto incluem:
 ## Metodologia
 
 - **Análise Exploratória de Dados (EDA)**: Gráficos, distribuições e correlações foram usados para entender os padrões dos dados.
-- **Modelos de Machine Learning**: Foram testados modelos como Random Forest e Regressão Logística para predizer ocorrências futuras.
+- **Modelos Estatísticos**: Foram testados modelos como ARIMA e SARIMA para predizer ocorrências futuras.
 - **Validação**: Utilizamos métricas como RMSE e Coeficiente de Determinação (R²) para avaliar a performance dos modelos.
 
 ## Resultados
