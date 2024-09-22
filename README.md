@@ -34,8 +34,8 @@ Os principais objetivos deste projeto incluem:
 ## Resultados
 
 Os principais insights obtidos foram:
-- A maior parte dos crimes ocorre durante [período], na região [local].
-- O modelo de Random Forest obteve [X]% de precisão na predição de crimes futuros.
+- A maior parte dos crimes ocorre durante 2013 a 2016 , na região de São Paulo.
+- O modelo SARIMA obteve 46% de precisão na predição de crimes futuros.
 
 ## Como Executar
 
