@@ -9,7 +9,7 @@ Este projeto faz parte do meu Trabalho de Conclusão de Curso (TCC) do **MBA em 
 ## Estrutura do Projeto
 
 - **Notebook Principal**: [Link para o notebook](https://github.com/Cabletkill/TCC_DATA_SCIENCE_USP/tree/main) - Contém a análise completa, desde o carregamento dos dados até a geração de insights.
-- **Dataset**: [Link para os dados, se aplicável] - O dataset utilizado foi coletado de [Fonte dos dados].
+- **Dataset**: O dataset utilizado foi coletado de [https://www.ssp.sp.gov.br/].
 - **Bibliotecas Utilizadas**: As principais bibliotecas utilizadas no projeto incluem:
   - `pandas`
   - `matplotlib`
@@ -22,8 +22,7 @@ Este projeto faz parte do meu Trabalho de Conclusão de Curso (TCC) do **MBA em 
 Os principais objetivos deste projeto incluem:
 1. Explorar o dataset de ocorrências criminais.
 2. Identificar padrões temporais e geográficos dos crimes.
-3. Aplicar modelos de aprendizado de máquina para prever a ocorrência de crimes.
-4. Fornecer recomendações para políticas públicas baseadas nos insights gerados.
+3. Aplicar modelos estatísticos para prever a ocorrência de crimes.
 
 ## Metodologia
 
