@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este projeto faz parte do meu Trabalho de Conclusão de Curso (TCC) do **MBA em Data Science e Analytics** da USP/ESALQ. O objetivo é realizar uma análise criminal detalhada, aplicando técnicas de ciência de dados para identificar padrões e tendências em dados de ocorrências criminais.
+Este projeto faz parte do meu Trabalho de Conclusão de Curso (TCC) do **MBA em Data Science e Analytics** da USP/ESALQ. O objetivo é realizar uma análise criminal detalhada, aplicando técnicas de ciência de dados para identificar padrões e tendências em dados de roubos de veículos.
 
 ## Estrutura do Projeto
 
